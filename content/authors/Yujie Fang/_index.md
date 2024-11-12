@@ -1,45 +1,39 @@
 ---
 # Display name
-title: Alice Wu 123
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Username (this should match the folder name)
-authors:
-  - 吳恩達
+title: Yujie Fang
+#名字
+# Full Name (for SEO)
+first_name: Yujie
+last_name: Fang
 
 # Is this the primary user of the site?
-superuser: false
-
+superuser: true
+#职位（研究生/博士生）后面是入学年份
 # Role/position
-role: Professor of Artificial Intelligence
-
+role: M.S Student（09/2023-）
+#所属机构
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Zhejiang Normal University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+#研究兴趣
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - Hypergraph Learning
+#教育经历
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.S in Computer Science and Technology
+      institution: Changshu Institute of Technology
+      year: 2023
+    # - course: B.S in Educational Technology
+    #   institution: Gannan Normal University
+    #   year: 2020
+    # - course: BSc in Artificial Intelligence
+    #   institution: Massachusetts Institute of Technology
+    #   year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -67,9 +61,11 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Students
 ---
-
