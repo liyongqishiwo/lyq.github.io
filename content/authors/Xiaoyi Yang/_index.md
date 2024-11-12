@@ -1,22 +1,10 @@
 ---
 # Display name
-<<<<<<< HEAD:content/authors/吳恩達/_index.md
-title: Alice Wu 123
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Username (this should match the folder name)
-authors:
-  - 吳恩達
-=======
 title: Xiaoyi Yang
 #名字
 # Full Name (for SEO)
 first_name: Xiaoyi
 last_name: Yang
->>>>>>> 2b1e767ecf0a766139a8f8f5bed66e3aa5d9f9bf:content/authors/Xiaoyi Yang/_index.md
 
 # Is this the primary user of the site?
 superuser: false
