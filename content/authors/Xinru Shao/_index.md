@@ -10,7 +10,7 @@ last_name: CShao
 superuser: false
 #职位（研究生/博士生）后面是入学年份
 # Role/position
-role: PhD Student (09/2023-)<br/>Co-supervised with Prof. <a href="https://mypage.zjnu.edu.cn/cqhuang/zh_CN/index.htm">Changqin Huang
+role: PhD Student (09/2023-)<br/>Co-supervised with Prof. <a href="https://mypage.zjnu.edu.cn/cqhuang/zh_CN/index.htm" style="color:#0000008A">Changqin Huang</a>
 #所属机构
 # Organizations/Affiliations
 organizations:
