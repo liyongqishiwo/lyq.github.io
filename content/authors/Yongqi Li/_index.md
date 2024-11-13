@@ -21,7 +21,8 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #研究兴趣
 interests:
- # - Graph Lifelong Learning
+  - Graph deep learning
+  - Hypergraph Representation Learning 
 #教育经历
 education:
   courses:

@@ -21,8 +21,8 @@ organizations:
 bio: My research interests include .
 #研究兴趣
 interests:
-  - 
-  - 
+  - Graph deep learning
+  - Hypergraph Representation Learning 
 #教育经历
 education:
   courses:

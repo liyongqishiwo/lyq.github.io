@@ -20,7 +20,8 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #研究兴趣
 interests:
-  - Artificial Intelligence in Education
+  - Intelligent Education Technologies and Applications
+  - AR, VR, MR, XR for Education
 
 #教育经历
 education:
