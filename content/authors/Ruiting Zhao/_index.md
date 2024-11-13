@@ -31,7 +31,7 @@ education:
     #   year: 2023
     - course: B.S in Computer Science and Technology
       institution: Taiyuan University
-      year: 2020
+      year: 2024
     # - course: BSc in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2008
