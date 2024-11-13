@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        GraphME
         
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        **GraphME** (Graph Machine Learning and Intelligent Education) Lab at Zhejiang Normal University focuses on research in machine learning on graphs, graph neural networks, hypergraph/graph learning, intelligent education technologies, and their applications, etc. As a leading lab in the field, we are committed to advancing both the theory and practical applications of graph machine learning and intelligent education through innovative projects, publications, and collaborations.
+        **GraphME** (<span style="color:red">**Graph** **M**</span>achine Learning and Intelligent <span style="color:red"> **E**</span>ducation) Lab at Zhejiang Normal University focuses on research in machine learning on graphs, graph neural networks, hypergraph/graph learning, intelligent education technologies, and their applications, etc. As a leading lab in the field, we are committed to advancing both the theory and practical applications of graph machine learning and intelligent education through innovative projects, publications, and collaborations.
   
 # - block: collection
 #   content:
