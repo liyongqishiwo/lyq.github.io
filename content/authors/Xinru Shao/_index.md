@@ -28,10 +28,10 @@ education:
   courses:
     - course: M.S in Applied Mathematics
       institution: China Jiliang University
-      year: 2021
-    - course: B.S in Information and Computing Sciences
-      institution: China Jiliang University
-      year: 2018
+      year: 2023
+    - course: B.S in Applied Mathematics
+      institution: Binzhou University
+      year: 2020
     # - course: BSc in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2008
