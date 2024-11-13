@@ -10,7 +10,7 @@ last_name: DCai
 superuser: falseS
 #职位（研究生/博士生）后面是入学年份
 # Role/position
-role: PhD Student (09/2023-)<br/>Co-supervised with Prof. Yunliang Jiang
+role: PhD Student (09/2023-)<br/>&nbsp;&nbsp;Co-supervised with Prof. Yunliang Jiang
 #所属机构
 # Organizations/Affiliations
 organizations:
