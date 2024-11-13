@@ -43,16 +43,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 
+    link: javascripts:;
   - icon: twitter
     icon_pack: fab
-    link: 
+    link: javascripts:;
   - icon: google-scholar
     icon_pack: ai
-    link: 
+    link: javascripts:;
   - icon: github
     icon_pack: fab
-    link: 
+    link: javascripts:;
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
