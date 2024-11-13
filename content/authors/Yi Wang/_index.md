@@ -10,7 +10,7 @@ last_name: AWang
 superuser: true
 #职位（研究生/博士生）后面是入学年份
 # Role/position
-role: PhD Student（with Changqin Huang 09/2021-）
+role: PhD Student (09/2021-)<br/>Co-supervised with Prof. Changqin Huang
 #所属机构
 # Organizations/Affiliations
 organizations:
