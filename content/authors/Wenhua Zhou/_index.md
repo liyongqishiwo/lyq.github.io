@@ -5,7 +5,6 @@ title: Wenhua Zhou
 # Full Name (for SEO)
 first_name: Wenhua
 last_name: Zhou
-
 # Is this the primary user of the site?
 superuser: false
 #职位（研究生/博士生）后面是入学年份
