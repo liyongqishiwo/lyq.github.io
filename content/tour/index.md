@@ -8,28 +8,28 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to the GraphME group
+        content: there are some photos
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: welcome.jpg
             filters:
               brightness: 0.7
-          position: right
+          position: center
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
+      - title: 👋 Welcome to the GraphME group
+        content: there are some photos
+        align: center
         background:
           image:
-            filename: contact.jpg
+            filename: welcome.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: GraphME Lab
+        content: 'Just opened this month!'
         align: right
         background:
           image:

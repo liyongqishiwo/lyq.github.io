@@ -10,9 +10,11 @@ last_name: Li
 superuser: true
 
 # Role/position
-role: Professor 
+role: Professors
 
 # Organizations/Affiliations
+
+
 organizations:
   - name: Zhejiang Normal University
     url: ''
