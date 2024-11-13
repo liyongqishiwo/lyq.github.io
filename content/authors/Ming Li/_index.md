@@ -10,7 +10,7 @@ last_name: Li
 superuser: true
 
 # Role/position
-role: Professors
+role: Professor
 
 # Organizations/Affiliations
 
