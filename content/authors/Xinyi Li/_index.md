@@ -1,16 +1,15 @@
 ---
 # Display name
-title: Caixia Li
-#名字
+title: Xinyi Li
 # Full Name (for SEO)
-first_name: Caixia
-last_name: ALi
+first_name: Xinyi 
+last_name: Li
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 #职位（研究生/博士生）后面是入学年份
 # Role/position
-role: M.S Student（09/2022-）
+role: M.S Student（09/2024-）
 #所属机构
 # Organizations/Affiliations
 organizations:
@@ -21,17 +20,17 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #研究兴趣
 interests:
-  - AR-based Writing Learning
-  - Peer Assessment
+  #- Hyper neural network
+
 #教育经历
 education:
   courses:
     # - course: M.S in Educational Technology
     #   institution: Zhejiang Normal University
     #   year: 2023
-    - course: B.S in Educational Technology
-      institution: Tianjin Foreign Studies University
-      year: 2021
+    - course: B.S in Computer Science and Technology
+      institution: China West Normal University
+      year: 2024
     # - course: BSc in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2008
@@ -43,16 +42,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 
+    link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: 
+    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: 
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: 
+    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

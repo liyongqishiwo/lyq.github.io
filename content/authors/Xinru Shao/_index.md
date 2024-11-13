@@ -4,13 +4,13 @@ title: Xinru Shao
 #名字
 # Full Name (for SEO)
 first_name: Xinru
-last_name: Shao
+last_name: CShao
 
 # Is this the primary user of the site?
 superuser: false
 #职位（研究生/博士生）后面是入学年份
 # Role/position
-role: PhD Student（09/2023-）
+role: PhD Student（with Changqin Huang 09/2023-）
 #所属机构
 # Organizations/Affiliations
 organizations:
@@ -68,6 +68,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - MS Students
+  - PhD Students Under Joint Supervision
 ---
 

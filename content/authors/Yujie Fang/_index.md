@@ -4,7 +4,7 @@ title: Yujie Fang
 #名字
 # Full Name (for SEO)
 first_name: Yujie
-last_name: Fang
+last_name: BFang
 
 # Is this the primary user of the site?
 superuser: false

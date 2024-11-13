@@ -4,7 +4,7 @@ title: Shuangshuang Ding
 #名字
 # Full Name (for SEO)
 first_name: Shuangshuang
-last_name: Ding
+last_name: ADing
 
 # Is this the primary user of the site?
 superuser: false

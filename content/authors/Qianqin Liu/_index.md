@@ -4,7 +4,7 @@ title: Qianqin Liu
 #名字
 # Full Name (for SEO)
 first_name: Qianqin
-last_name: Liu
+last_name: ALiu
 
 # Is this the primary user of the site?
 superuser: false

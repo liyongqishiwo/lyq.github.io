@@ -3,7 +3,7 @@
 title: Youlin Yang
 # Full Name (for SEO)
 first_name: Youlin
-last_name: Yang
+last_name: AYang
 
 # Is this the primary user of the site?
 superuser: false

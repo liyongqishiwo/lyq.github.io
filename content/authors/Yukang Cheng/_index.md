@@ -3,7 +3,7 @@
 title: Yukang Cheng
 # Full Name (for SEO)
 first_name: Yukang
-last_name: Cheng
+last_name: BCheng
 
 # Is this the primary user of the site?
 superuser: false

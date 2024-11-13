@@ -4,7 +4,7 @@ title: Xiaoyi Yang
 #名字
 # Full Name (for SEO)
 first_name: Xiaoyi
-last_name: Yang
+last_name: AYang
 
 # Is this the primary user of the site?
 superuser: false

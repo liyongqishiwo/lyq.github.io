@@ -4,12 +4,12 @@ title: Wenhua Zhou
 #名字
 # Full Name (for SEO)
 first_name: Wenhua
-last_name: Zhou
+last_name: EZhou
 # Is this the primary user of the site?
 superuser: false
 #职位（研究生/博士生）后面是入学年份
 # Role/position
-role: PhD Student（09/2024-）
+role: PhD Student（with Yunliang Jiang 09/2024-）
 #所属机构
 # Organizations/Affiliations
 organizations:
@@ -67,6 +67,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - PhD Students Under Joint Supervision
 ---
 
