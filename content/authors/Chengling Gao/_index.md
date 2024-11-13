@@ -10,7 +10,7 @@ last_name: BGao
 superuser: false
 #职位（研究生/博士生）后面是入学年份
 # Role/position
-role: PhD Student (09/2022-)<br/>Co-supervised with Prof. Changqin Huang
+role: PhD Student (09/2022-)<br/>Co-supervised with Prof. <a href="https://mypage.zjnu.edu.cn/cqhuang/zh_CN/index.htm">Changqin Huang
 #所属机构
 # Organizations/Affiliations
 organizations:

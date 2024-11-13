@@ -41,7 +41,7 @@ education:
 social:
   - icon : university
     icon_pack : fa
-    link : https://mypage.zjnu.edu.cn/mingli/zh_CN/index.htm
+    link : https://mingli-ai.github.io/
   - icon: envelope
     icon_pack: fas
     link: 
