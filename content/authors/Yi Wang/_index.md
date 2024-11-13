@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Yongqi Li
+title: Yi Wang
 #名字
 # Full Name (for SEO)
-first_name: Yongqi
-last_name: Li
+first_name: Yi
+last_name: AWang
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 #职位（研究生/博士生）后面是入学年份
 # Role/position
-role: M.S Student（09/2024-）
+role: PhD Student（with Changqin Huang 09/2021-）
 #所属机构
 # Organizations/Affiliations
 organizations:
@@ -21,16 +21,17 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #研究兴趣
 interests:
- # - Graph Lifelong Learning
+  - Graph Deep Learning
+  - Heterophilic Graph Representation Learning
 #教育经历
 education:
   courses:
-    # - course: M.S in Educational Technology
-    #   institution: Zhejiang Normal University
-    #   year: 2023
-    - course: B.S in Network Engineering
-      institution: Qufu Normal University
-      year: 2023
+    - course: M.S in Applied Mathematic
+      institution: China Jiliang University
+      year: 2021
+    - course: B.S in Mathematics and Applied Mathematics
+      institution: Leshan Normal University
+      year: 2018
     # - course: BSc in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2008
@@ -67,5 +68,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - MS Students
+  - PhD Students Under Joint Supervision
 ---

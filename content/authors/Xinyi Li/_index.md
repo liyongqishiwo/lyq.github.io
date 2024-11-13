@@ -1,13 +1,12 @@
 ---
 # Display name
-title: Yongqi Li
-#名字
+title: Xinyi Li
 # Full Name (for SEO)
-first_name: Yongqi
+first_name: Xinyi 
 last_name: Li
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 #职位（研究生/博士生）后面是入学年份
 # Role/position
 role: M.S Student（09/2024-）
@@ -21,16 +20,17 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #研究兴趣
 interests:
- # - Graph Lifelong Learning
+  #- Hyper neural network
+
 #教育经历
 education:
   courses:
     # - course: M.S in Educational Technology
     #   institution: Zhejiang Normal University
     #   year: 2023
-    - course: B.S in Network Engineering
-      institution: Qufu Normal University
-      year: 2023
+    - course: B.S in Computer Science and Technology
+      institution: China West Normal University
+      year: 2024
     # - course: BSc in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2008
@@ -69,3 +69,4 @@ highlight_name: false
 user_groups:
   - MS Students
 ---
+

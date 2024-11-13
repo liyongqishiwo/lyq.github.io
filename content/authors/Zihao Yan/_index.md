@@ -1,16 +1,15 @@
 ---
 # Display name
-title: Yongqi Li
-#名字
+title: Zihao Yan
 # Full Name (for SEO)
-first_name: Yongqi
-last_name: Li
+first_name: Zihao
+last_name: BYan
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 #职位（研究生/博士生）后面是入学年份
 # Role/position
-role: M.S Student（09/2024-）
+role: M.S Student（09/2023-）
 #所属机构
 # Organizations/Affiliations
 organizations:
@@ -21,15 +20,16 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #研究兴趣
 interests:
- # - Graph Lifelong Learning
+  - Graph Deep Learning
+  - Session Recommendation
 #教育经历
 education:
   courses:
     # - course: M.S in Educational Technology
     #   institution: Zhejiang Normal University
     #   year: 2023
-    - course: B.S in Network Engineering
-      institution: Qufu Normal University
+    - course: B.S in Computer Science and Technology
+      institution: Shaoyang University
       year: 2023
     # - course: BSc in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
@@ -69,3 +69,4 @@ highlight_name: false
 user_groups:
   - MS Students
 ---
+

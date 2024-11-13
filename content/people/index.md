@@ -13,6 +13,7 @@ sections:
       user_groups:
           - Director
           - PhD Students
+          - PhD Students Under Joint Supervision
           - MS Students
       sort_by: Params.last_name
       sort_ascending: true
